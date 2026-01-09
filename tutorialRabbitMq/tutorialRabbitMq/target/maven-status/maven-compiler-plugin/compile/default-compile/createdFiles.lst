@@ -1,0 +1,6 @@
+com\toie\tutorialRabbitMq\service\RabbitMqListener.class
+com\toie\tutorialRabbitMq\service\RabbitMqProducer.class
+com\toie\tutorialRabbitMq\domain\TutorialModel$TutorialModelBuilder.class
+com\toie\tutorialRabbitMq\TutorialRabbitMqApplication.class
+com\toie\tutorialRabbitMq\config\RabbitMqConfig.class
+com\toie\tutorialRabbitMq\domain\TutorialModel.class
